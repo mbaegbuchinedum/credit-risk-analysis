@@ -4,6 +4,12 @@
 **Degree:** B.Sc. (Hons) Data Science, Department of Data Science, School of Computing, Miva Open University, Abuja  
 **Supervisor:** Dr. A. S. Makinde
 
+### 🔗 Live demo: **[credit-risk-sterling-bank.onrender.com](https://credit-risk-sterling-bank.onrender.com/)**
+
+Open the underwriting dashboard, enter a personal or SME loan application, and see the decision with its reasons.
+Interactive API documentation: [credit-risk-sterling-bank.onrender.com/docs](https://credit-risk-sterling-bank.onrender.com/docs).
+*The demo runs on a free server, so the first visit can take up to a minute to load.*
+
 > **Data notice.** Both loan portfolios are **simulated** by `src/data_generator.py`. They are modelled on the
 > personal and SME products and field types of a Nigerian commercial bank (Sterling Bank Nigeria), but contain
 > **no real customer records**. The live dashboard is an academic prototype, is not affiliated with or
